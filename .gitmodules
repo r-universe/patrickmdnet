@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "medicalrisk"]
+	path = medicalrisk
+	url = https://github.com/patrickmdnet/medicalrisk
+	shallow = true
+	registered = true
